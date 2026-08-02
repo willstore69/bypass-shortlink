@@ -8,7 +8,6 @@
 
 <p align="center">
   <b>Bypass shortlinks effortlessly and get direct links instantly.</b><br>
-  <i>Created with ❤️ by <a href="https://t.me/user_legend">@user_legend</a></i>
 </p>
 
 <p align="center">
